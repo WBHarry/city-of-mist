@@ -95,3 +95,4 @@ This is the unofficial Foundry System for City of Mist RPG by Son of Oak.
 * The narration box can add story tags using the same bracket syntax [tag-name] as for GM moves only the tag is added to the container instead.
 
 * Story tag container tags are always visible.
+Fork Test
